@@ -1,0 +1,22 @@
+{
+  "name": "file-manager-node-js",
+  "version": "1.0.0",
+  "description": "https://github.com/AbdukhalilovIslom/file-manager-node-js.git",
+  "engines": {
+    "node": ">=22.9.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdukhalilovIslom/file-manager-node-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "assignments"
+  ],
+  "author": "abdukhalilovislom",
+  "license": "ISC"
+}
